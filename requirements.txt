@@ -1,0 +1,7 @@
+email-validator
+PyJWT
+fastapi[all]
+PyMySQL
+SQLAlchemy
+cryptography
+python-dotenv
